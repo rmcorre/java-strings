@@ -1,7 +1,7 @@
 package org.academiadecodigo.codezillas.javastrings;
 
 /**
- * My API for string methods
+ * Java Strings Lab
  */
 public class JavaStrings {
 
