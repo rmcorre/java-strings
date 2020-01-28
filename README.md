@@ -1,2 +1,2 @@
 # java-strings
-Java strings exercises
+A Java Strings Lab
