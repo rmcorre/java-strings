@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"org.academiadecodigo.codezillas.javastrings","l":"App"},{"p":"org.academiadecodigo.codezillas.javastrings","l":"JavaStrings"}]
